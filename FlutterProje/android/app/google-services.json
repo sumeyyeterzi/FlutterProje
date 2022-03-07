@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "409085516021",
+    "project_id": "yemekveritabani-abf8f",
+    "storage_bucket": "yemekveritabani-abf8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409085516021:android:4236e5d1c8d067d72e4dbc",
+        "android_client_info": {
+          "package_name": "com.example.proje"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409085516021-ncq18abdoicqcmno82oekrk09hfgu77o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8PY9a197RBmPNB1pztD5pIfIA2jtZUTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409085516021-ncq18abdoicqcmno82oekrk09hfgu77o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
